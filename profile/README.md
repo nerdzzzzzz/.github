@@ -13,7 +13,7 @@ Here are some of the technologies we work with:
 <!-- Add your tech stack badges here. Examples below: -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactNative]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/-React%20native-000?&logo=React))
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?for-the-badge&logo=unity&logoColor=white)
 
 ## 🌟 Pinned Repositories
 
